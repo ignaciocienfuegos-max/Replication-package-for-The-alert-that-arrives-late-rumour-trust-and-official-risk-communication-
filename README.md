@@ -1,2 +1,0 @@
-# Replication-package-for-The-alert-that-arrives-late-rumour-trust-and-official-risk-communication-
-Replication package for "The alert that arrives late: rumour, trust and official risk communication across four Chilean disasters, 2010–2026" — timelines, CERC coding, cross-case matrix, and figure data/scripts for the 2010 earthquake/tsunami, COVID-19, 2024 Valparaíso fire, and 2026 Norte Grande floods cases.
